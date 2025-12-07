@@ -4,6 +4,8 @@ A lightweight, effect that sends a swarm of colorful animated fish swimming acro
 
 ---
 
+![A colorful fish](fish.png)
+
 ## 📦 Installation
 
 ```bash

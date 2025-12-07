@@ -1,7 +1,7 @@
 {
   "name": "fishattack",
-  "version": "1.0.2",
-  "description": "Simple animation to have fish all over your screen",
+  "version": "1.0.3",
+  "description": "A lightweight, effect that sends a swarm of colorful animated fish swimming across the screen 🐟",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,0 +1,1 @@
+export { fishAttack } from "./fish";

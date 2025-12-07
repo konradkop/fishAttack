@@ -1,0 +1,22 @@
+{
+  "name": "fishattack",
+  "version": "1.0.0",
+  "description": "Simple animation to have fish all over your screen",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konradkop/fishAttack.git"
+  },
+  "keywords": [
+    "fish"
+  ],
+  "author": "konradkop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konradkop/fishAttack/issues"
+  },
+  "homepage": "https://github.com/konradkop/fishAttack#readme"
+}

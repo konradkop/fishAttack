@@ -1,6 +1,6 @@
 {
   "name": "fishattack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple animation to have fish all over your screen",
   "main": "index.ts",
   "scripts": {

@@ -18,3 +18,5 @@ export default function FishAttackButton() {
   return <button onClick={fishAttack}>Fish Attack</button>;
 }
 ```
+
+Check it out live: https://53d8b2b1.fishattack.pages.dev/
